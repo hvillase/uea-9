@@ -10,5 +10,5 @@ Caso de artistia: Sung Tieu.
 ## Semana 2
 
 ## Semana 3
-
+Veremos como hacer el index.html
 ## Semana 4
