@@ -12,3 +12,4 @@ Caso de artistia: Sung Tieu.
 ## Semana 3
 Veremos como hacer el index.html
 ## Semana 4
+Usaremos VSC
