@@ -11,5 +11,9 @@ Caso de artistia: Sung Tieu.
 
 ## Semana 3
 Veremos como hacer el index.html
+
 ## Semana 4
-Usaremos VSC
+Usaremos VSC y Gimp para editar imágenes.  
+[Gimp](https://www.gimp.org/)  
+
+## Semana 5
