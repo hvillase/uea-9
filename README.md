@@ -17,3 +17,6 @@ Usaremos VSC y Gimp para editar imágenes.
 [Gimp](https://www.gimp.org/)  
 
 ## Semana 5
+Diseño co CSS  
+[CSS Layout](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout)  
+

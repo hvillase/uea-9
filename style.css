@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(140, 174, 140);
+    padding: 5px;
+}
+
+nav{
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+footer {
+    background-color: rgb(201, 25, 25);
+    padding: 5px;
+}
+
+.contenedor{
+    display: flex;
+}
+
+.contenedor > div{
+    flex: 1;
+}
+
+.uno{
+    background-color: khaki;
+    padding: 5px;
+}
+
+.dos{
+    background-color: cyan;
+    padding: 5px;
+}
+
+.tres{
+    background-color: gainsboro;
+    padding: 5px;
+}
