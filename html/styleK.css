@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: beige;
+    display: flex;
+}
+
+footer{
+    background-color: azure;
+    display: flex;
+}
+
+.contenedor{
+    background-color: antiquewhite;
+    display: flex;
+}
+
+.caja1{
+    background-color: antiquewhite;
+    flex:1;
+    writing-mode: vertical-lr;
+    height: 95%;
+}
+
+.caja2{
+    background-color: blanchedalmond;
+    background-image:url("f1.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    flex: 9;
+}
+
+.pVertical{
+    background-color: gainsboro;
+    writing-mode: vertical-lr;
+}
+

@@ -1,0 +1,13 @@
+.infinito{
+    width: 50000px;
+    height: 50000px;
+    position: relative;
+}
+
+.parte1{
+    background-color: aqua;
+    position: absolute;
+    left: 1000px;
+    width: 100px;
+    height: 100px;
+}

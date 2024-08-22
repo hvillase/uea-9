@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.fotoT{
+    background-color: aqua;
+    position: relative;
+    height: 300px;
+}
+
+.fotoA{
+    position: absolute;
+    left: 200px;
+    top: 10px;
+}
+
+.fotoB{
+    position: absolute;
+    left: 300px;
+    top: 20px;
+}
