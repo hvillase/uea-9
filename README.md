@@ -20,3 +20,5 @@ Usaremos VSC y Gimp para editar imágenes.
 Diseño co CSS  
 [CSS Layout](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout)  
 
+## Presentación de proyectos
+[Código QR](https://parzibyte.me/apps/generador-qr/)
